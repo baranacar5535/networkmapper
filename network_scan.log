@@ -1,0 +1,863 @@
+2024-06-06 13:10:13,963 - INFO - 127.0.0.1 - - [2024-06-06 13:10:13] "GET / HTTP/1.1" 200 6476 0.014996
+2024-06-06 13:10:14,048 - INFO - 127.0.0.1 - - [2024-06-06 13:10:14] "GET /socket.io/?EIO=4&transport=polling&t=O_j1m-Q HTTP/1.1" 200 254 0.002000
+2024-06-06 13:10:14,357 - INFO - 127.0.0.1 - - [2024-06-06 13:10:14] "GET /static/index.png HTTP/1.1" 200 726401 0.299996
+2024-06-06 13:10:14,365 - INFO - 127.0.0.1 - - [2024-06-06 13:10:14] "POST /socket.io/?EIO=4&transport=polling&t=O_j1m_I&sid=rkK0DxTvUxPlIL-8AAAA HTTP/1.1" 200 195 0.003001
+2024-06-06 13:10:14,368 - INFO - 127.0.0.1 - - [2024-06-06 13:10:14] "GET /socket.io/?EIO=4&transport=polling&t=O_j1m_M&sid=rkK0DxTvUxPlIL-8AAAA HTTP/1.1" 200 239 0.008002
+2024-06-06 13:10:14,371 - INFO - 127.0.0.1 - - [2024-06-06 13:10:14] "GET /favicon.ico HTTP/1.1" 404 331 0.001001
+2024-06-06 13:10:14,417 - INFO - 127.0.0.1 - - [2024-06-06 13:10:14] "GET /socket.io/?EIO=4&transport=polling&t=O_j1n3Z&sid=rkK0DxTvUxPlIL-8AAAA HTTP/1.1" 200 157 0.043997
+2024-06-06 13:10:17,711 - INFO - 127.0.0.1 - - [2024-06-06 13:10:17] "GET /socket.io/?EIO=4&transport=polling&t=O_j1nti HTTP/1.1" 200 254 0.000993
+2024-06-06 13:10:17,718 - INFO - 127.0.0.1 - - [2024-06-06 13:10:17] "POST /socket.io/?EIO=4&transport=polling&t=O_j1ntp&sid=QzC5bK9h3lp7ONPcAAAC HTTP/1.1" 200 195 0.001000
+2024-06-06 13:10:17,721 - INFO - 127.0.0.1 - - [2024-06-06 13:10:17] "GET /socket.io/?EIO=4&transport=polling&t=O_j1nts&sid=QzC5bK9h3lp7ONPcAAAC HTTP/1.1" 200 239 0.001000
+2024-06-06 13:10:18,038 - INFO - 127.0.0.1 - - [2024-06-06 13:10:18] "GET /socket.io/?EIO=4&transport=polling&t=O_j1ntz&sid=QzC5bK9h3lp7ONPcAAAC HTTP/1.1" 200 157 0.310007
+2024-06-06 13:12:02,647 - INFO - 127.0.0.1 - - [2024-06-06 13:12:02] "POST /start_scan HTTP/1.1" 200 163 0.054734
+2024-06-06 13:12:04,100 - INFO - Starting Nmap scan...
+2024-06-06 13:12:04,468 - INFO - Starting Nmap scan on target: 192.168.6.64 with scan type: -F
+2024-06-06 13:12:05,862 - INFO - Nmap scan completed in 1.39 seconds
+2024-06-06 13:12:05,864 - INFO - Nmap scan completed.
+2024-06-06 13:12:05,866 - INFO - Starting packet capture...
+2024-06-06 13:12:05,885 - INFO - Source IP: 152.199.21.175, Destination IP: 192.168.6.209
+2024-06-06 13:12:05,886 - INFO - Source Port: 443, Destination Port: 23810
+2024-06-06 13:12:05,888 - INFO - Source IP: 192.168.6.209, Destination IP: 152.199.21.175
+2024-06-06 13:12:05,889 - INFO - Source Port: 23810, Destination Port: 443
+2024-06-06 13:12:05,894 - INFO - Source IP: 152.199.21.175, Destination IP: 192.168.6.209
+2024-06-06 13:12:05,896 - INFO - Source Port: 443, Destination Port: 23810
+2024-06-06 13:12:05,900 - INFO - Source IP: 192.168.6.209, Destination IP: 152.199.21.175
+2024-06-06 13:12:05,901 - INFO - Source Port: 23810, Destination Port: 443
+2024-06-06 13:12:05,903 - INFO - Source IP: 152.199.21.175, Destination IP: 192.168.6.209
+2024-06-06 13:12:05,904 - INFO - Source Port: 443, Destination Port: 23810
+2024-06-06 13:12:05,906 - INFO - Source IP: 192.168.6.209, Destination IP: 152.199.21.175
+2024-06-06 13:12:05,907 - INFO - Source Port: 23810, Destination Port: 443
+2024-06-06 13:12:05,910 - INFO - Source IP: 152.199.21.175, Destination IP: 192.168.6.209
+2024-06-06 13:12:05,912 - INFO - Source Port: 443, Destination Port: 23810
+2024-06-06 13:12:05,915 - INFO - Source IP: 192.168.6.209, Destination IP: 152.199.21.175
+2024-06-06 13:12:05,916 - INFO - Source Port: 23810, Destination Port: 443
+2024-06-06 13:12:05,918 - INFO - Source IP: 152.199.21.175, Destination IP: 192.168.6.209
+2024-06-06 13:12:05,919 - INFO - Source Port: 443, Destination Port: 23810
+2024-06-06 13:12:05,924 - INFO - Source IP: 192.168.6.209, Destination IP: 152.199.21.175
+2024-06-06 13:12:05,926 - INFO - Source Port: 23810, Destination Port: 443
+2024-06-06 13:12:05,929 - ERROR - Error capturing packets: [Errno 2] No such file or directory: ''
+2024-06-06 13:12:05,931 - INFO - Packet capture completed.
+2024-06-06 13:12:05,932 - INFO - Retrieving ARP table...
+2024-06-06 13:12:05,991 - INFO - ARP Table:
+2024-06-06 13:12:05,992 - INFO - 
+Interface: 192.168.56.1 --- 0xb
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+Interface: 192.168.6.209 --- 0xc
+  Internet Address      Physical Address      Type
+  192.168.6.64          7e-67-b0-03-62-9e     dynamic   
+  192.168.6.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.255.102.18        01-00-5e-7f-66-12     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+2024-06-06 13:12:05,998 - INFO - ARP table retrieval completed.
+2024-06-06 13:12:05,999 - INFO - Alerting if any open ports are found...
+2024-06-06 13:12:06,761 - ERROR - Error sending email: [Errno 11001] getaddrinfo failed
+2024-06-06 13:12:06,762 - WARNING - Suspicious network activity detected and email alert sent with open port details!
+2024-06-06 13:12:06,763 - INFO - Alerts detected: []
+2024-06-06 13:12:07,785 - INFO - Rendering results with alerts: []
+2024-06-06 13:12:07,839 - INFO - 127.0.0.1 - - [2024-06-06 13:12:07] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 10745 0.054994
+2024-06-06 13:12:07,923 - INFO - 127.0.0.1 - - [2024-06-06 13:12:07] "GET /socket.io/?EIO=4&transport=polling&t=O_j2CnT HTTP/1.1" 200 254 0.001004
+2024-06-06 13:12:07,929 - INFO - 127.0.0.1 - - [2024-06-06 13:12:07] "POST /socket.io/?EIO=4&transport=polling&t=O_j2Cnr&sid=6nvBn7SY42FaJFA7AAAE HTTP/1.1" 200 195 0.001999
+2024-06-06 13:12:07,931 - INFO - 127.0.0.1 - - [2024-06-06 13:12:07] "GET /socket.io/?EIO=4&transport=polling&t=O_j2Cns&sid=6nvBn7SY42FaJFA7AAAE HTTP/1.1" 200 239 0.000000
+2024-06-06 13:12:08,236 - INFO - 127.0.0.1 - - [2024-06-06 13:12:08] "GET /static/result.png HTTP/1.1" 200 374198 0.350947
+2024-06-06 13:12:08,244 - INFO - 127.0.0.1 - - [2024-06-06 13:12:08] "GET /socket.io/?EIO=4&transport=polling&t=O_j2Cn-&sid=6nvBn7SY42FaJFA7AAAE HTTP/1.1" 200 157 0.306932
+2024-06-06 13:12:08,714 - INFO - Rendering results with alerts: []
+2024-06-06 13:12:08,716 - INFO - 127.0.0.1 - - [2024-06-06 13:12:08] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 10745 0.002974
+2024-06-06 13:12:08,755 - INFO - 127.0.0.1 - - [2024-06-06 13:12:08] "GET /static/result.png HTTP/1.1" 304 187 0.000999
+2024-06-06 13:12:08,760 - INFO - 127.0.0.1 - - [2024-06-06 13:12:08] "GET /socket.io/?EIO=4&transport=polling&t=O_j2C-q HTTP/1.1" 200 254 0.000000
+2024-06-06 13:12:08,786 - INFO - 127.0.0.1 - - [2024-06-06 13:12:08] "POST /socket.io/?EIO=4&transport=polling&t=O_j2C_D&sid=xehXy5tUFhgkeypqAAAG HTTP/1.1" 200 195 0.001027
+2024-06-06 13:12:08,788 - INFO - 127.0.0.1 - - [2024-06-06 13:12:08] "GET /socket.io/?EIO=4&transport=polling&t=O_j2C_F&sid=xehXy5tUFhgkeypqAAAG HTTP/1.1" 200 239 0.000000
+2024-06-06 13:12:09,014 - INFO - 127.0.0.1 - - [2024-06-06 13:12:09] "GET /socket.io/?EIO=4&transport=polling&t=O_j2C_N&sid=xehXy5tUFhgkeypqAAAG HTTP/1.1" 200 339 0.219813
+2024-06-06 13:12:09,094 - INFO - 127.0.0.1 - - [2024-06-06 13:12:09] "GET /socket.io/?EIO=4&transport=polling&t=O_j2D2u&sid=xehXy5tUFhgkeypqAAAG HTTP/1.1" 200 157 0.075305
+2024-06-06 13:14:23,197 - INFO - 127.0.0.1 - - [2024-06-06 13:14:23] "GET / HTTP/1.1" 200 6476 0.001036
+2024-06-06 13:14:23,240 - INFO - 127.0.0.1 - - [2024-06-06 13:14:23] "GET /static/index.png HTTP/1.1" 304 185 0.003975
+2024-06-06 13:14:23,244 - INFO - 127.0.0.1 - - [2024-06-06 13:14:23] "GET /socket.io/?EIO=4&transport=polling&t=O_j2jq2 HTTP/1.1" 200 254 0.000000
+2024-06-06 13:14:23,266 - INFO - 127.0.0.1 - - [2024-06-06 13:14:23] "POST /socket.io/?EIO=4&transport=polling&t=O_j2jqJ&sid=jsak-oKAp5nngOPPAAAI HTTP/1.1" 200 195 0.002004
+2024-06-06 13:14:23,270 - INFO - 127.0.0.1 - - [2024-06-06 13:14:23] "GET /socket.io/?EIO=4&transport=polling&t=O_j2jqN&sid=jsak-oKAp5nngOPPAAAI HTTP/1.1" 200 239 0.000000
+2024-06-06 13:14:23,583 - INFO - 127.0.0.1 - - [2024-06-06 13:14:23] "GET /socket.io/?EIO=4&transport=polling&t=O_j2jqh&sid=jsak-oKAp5nngOPPAAAI HTTP/1.1" 200 157 0.306008
+2024-06-06 13:14:57,265 - INFO - 127.0.0.1 - - [2024-06-06 13:14:57] "POST /start_scan HTTP/1.1" 200 163 0.012996
+2024-06-06 13:14:58,632 - INFO - Starting Nmap scan...
+2024-06-06 13:14:58,683 - INFO - Starting Nmap scan on target: 192.168.6.64/0 with scan type: -F
+2024-06-07 02:28:08,531 - INFO - 127.0.0.1 - - [2024-06-07 02:28:08] "GET /socket.io/?EIO=4&transport=polling&t=O_luP0Q HTTP/1.1" 200 254 0.001513
+2024-06-07 02:28:08,547 - INFO - 127.0.0.1 - - [2024-06-07 02:28:08] "POST /socket.io/?EIO=4&transport=polling&t=O_luP5W&sid=3n9QvpEgaxiyWCqmAAAA HTTP/1.1" 200 195 0.000993
+2024-06-07 02:28:08,549 - INFO - 127.0.0.1 - - [2024-06-07 02:28:08] "GET /socket.io/?EIO=4&transport=polling&t=O_luP5Z&sid=3n9QvpEgaxiyWCqmAAAA HTTP/1.1" 200 239 0.000000
+2024-06-07 02:28:08,856 - INFO - 127.0.0.1 - - [2024-06-07 02:28:08] "GET /socket.io/?EIO=4&transport=polling&t=O_luP5g&sid=3n9QvpEgaxiyWCqmAAAA HTTP/1.1" 200 157 0.299510
+2024-06-07 02:28:10,828 - INFO - 127.0.0.1 - - [2024-06-07 02:28:10] "GET / HTTP/1.1" 200 6476 0.007361
+2024-06-07 02:28:10,878 - INFO - 127.0.0.1 - - [2024-06-07 02:28:10] "GET /socket.io/?EIO=4&transport=polling&t=O_luPfx HTTP/1.1" 200 254 0.000000
+2024-06-07 02:28:10,983 - INFO - 127.0.0.1 - - [2024-06-07 02:28:10] "GET /static/index.png HTTP/1.1" 304 185 0.103192
+2024-06-07 02:28:10,985 - INFO - 127.0.0.1 - - [2024-06-07 02:28:10] "POST /socket.io/?EIO=4&transport=polling&t=O_luPgE&sid=AFkFPkJPFkpMPR2xAAAC HTTP/1.1" 200 195 0.001001
+2024-06-07 02:28:10,986 - INFO - 127.0.0.1 - - [2024-06-07 02:28:10] "GET /socket.io/?EIO=4&transport=polling&t=O_luPgG&sid=AFkFPkJPFkpMPR2xAAAC HTTP/1.1" 200 239 0.002000
+2024-06-07 02:28:11,004 - INFO - 127.0.0.1 - - [2024-06-07 02:28:11] "GET /favicon.ico HTTP/1.1" 404 331 0.000993
+2024-06-07 02:28:11,201 - INFO - 127.0.0.1 - - [2024-06-07 02:28:11] "GET /socket.io/?EIO=4&transport=polling&t=O_luPhh&sid=AFkFPkJPFkpMPR2xAAAC HTTP/1.1" 200 157 0.211098
+2024-06-07 02:28:49,319 - INFO - 127.0.0.1 - - [2024-06-07 02:28:49] "POST /start_scan HTTP/1.1" 200 161 0.036545
+2024-06-07 02:28:50,064 - INFO - Starting Nmap scan...
+2024-06-07 02:28:50,301 - INFO - Starting Nmap scan on target: 192.168.1.27 with scan type: -sS -A -T4
+2024-06-07 02:29:02,281 - INFO - 127.0.0.1 - - [2024-06-07 02:29:02] "POST /start_scan HTTP/1.1" 200 163 0.004033
+2024-06-07 02:29:02,873 - INFO - Starting Nmap scan...
+2024-06-07 02:29:02,895 - INFO - Starting Nmap scan on target: 192.168.1.27 with scan type: -F
+2024-06-07 02:29:03,178 - INFO - Nmap scan completed in 0.28 seconds
+2024-06-07 02:29:03,178 - INFO - Nmap scan completed.
+2024-06-07 02:29:03,179 - INFO - Starting packet capture...
+2024-06-07 02:29:03,200 - INFO - Source IP: 216.58.212.42, Destination IP: 192.168.1.27
+2024-06-07 02:29:03,472 - INFO - Source IP: 192.168.1.27, Destination IP: 239.192.152.143
+2024-06-07 02:29:03,474 - INFO - Source IP: 192.168.1.27, Destination IP: 239.192.152.143
+2024-06-07 02:29:03,926 - INFO - Source IP: 192.168.1.27, Destination IP: 239.255.255.250
+2024-06-07 02:29:04,047 - INFO - Source IP: 81.28.215.222, Destination IP: 192.168.1.27
+2024-06-07 02:29:04,049 - INFO - Source IP: 192.168.1.27, Destination IP: 81.28.215.222
+2024-06-07 02:29:04,052 - INFO - Source IP: 173.249.4.73, Destination IP: 192.168.1.27
+2024-06-07 02:29:04,053 - INFO - Source IP: 192.168.1.27, Destination IP: 173.249.4.73
+2024-06-07 02:29:04,100 - INFO - Source IP: 104.18.32.115, Destination IP: 192.168.1.27
+2024-06-07 02:29:04,100 - INFO - Source Port: 443, Destination Port: 60508
+2024-06-07 02:29:04,103 - INFO - Source IP: 192.168.1.27, Destination IP: 104.18.32.115
+2024-06-07 02:29:04,104 - INFO - Source Port: 60508, Destination Port: 443
+2024-06-07 02:29:04,105 - ERROR - Error capturing packets: [Errno 2] No such file or directory: ''
+2024-06-07 02:29:04,107 - INFO - Packet capture completed.
+2024-06-07 02:29:04,108 - INFO - Retrieving ARP table...
+2024-06-07 02:29:04,144 - INFO - ARP Table:
+2024-06-07 02:29:04,144 - INFO - 
+Interface: 192.168.56.1 --- 0xb
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+Interface: 192.168.1.27 --- 0xc
+  Internet Address      Physical Address      Type
+  192.168.1.1           d4-46-49-74-91-db     dynamic   
+  192.168.1.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.102.18        01-00-5e-7f-66-12     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+2024-06-07 02:29:04,146 - INFO - ARP table retrieval completed.
+2024-06-07 02:29:04,147 - INFO - Alerting if any open ports are found...
+2024-06-07 02:29:04,295 - ERROR - Error sending email: [Errno 11001] getaddrinfo failed
+2024-06-07 02:29:04,295 - WARNING - Suspicious network activity detected and email alert sent with open port details!
+2024-06-07 02:29:04,295 - INFO - Alerts detected: []
+2024-06-07 02:29:04,302 - INFO - Rendering results with alerts: []
+2024-06-07 02:29:04,309 - INFO - 127.0.0.1 - - [2024-06-07 02:29:04] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 10991 0.007002
+2024-06-07 02:29:04,356 - INFO - 127.0.0.1 - - [2024-06-07 02:29:04] "GET /static/result.png HTTP/1.1" 304 187 0.023534
+2024-06-07 02:29:04,358 - INFO - 127.0.0.1 - - [2024-06-07 02:29:04] "GET /socket.io/?EIO=4&transport=polling&t=O_lucjD HTTP/1.1" 200 254 0.000000
+2024-06-07 02:29:04,363 - INFO - 127.0.0.1 - - [2024-06-07 02:29:04] "POST /socket.io/?EIO=4&transport=polling&t=O_lucjd&sid=IA4dcnWjeM_5k4sBAAAE HTTP/1.1" 200 195 0.000998
+2024-06-07 02:29:04,364 - INFO - 127.0.0.1 - - [2024-06-07 02:29:04] "GET /socket.io/?EIO=4&transport=polling&t=O_lucje&sid=IA4dcnWjeM_5k4sBAAAE HTTP/1.1" 200 239 0.000000
+2024-06-07 02:29:04,674 - INFO - 127.0.0.1 - - [2024-06-07 02:29:04] "GET /socket.io/?EIO=4&transport=polling&t=O_lucjl&sid=IA4dcnWjeM_5k4sBAAAE HTTP/1.1" 200 157 0.305035
+2024-06-07 02:29:06,225 - INFO - Rendering results with alerts: []
+2024-06-07 02:29:06,226 - INFO - 127.0.0.1 - - [2024-06-07 02:29:06] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 10991 0.001020
+2024-06-07 02:29:06,249 - INFO - 127.0.0.1 - - [2024-06-07 02:29:06] "GET /static/result.png HTTP/1.1" 304 187 0.001000
+2024-06-07 02:29:06,264 - INFO - 127.0.0.1 - - [2024-06-07 02:29:06] "GET /socket.io/?EIO=4&transport=polling&t=O_ludBD HTTP/1.1" 200 254 0.001002
+2024-06-07 02:29:06,277 - INFO - 127.0.0.1 - - [2024-06-07 02:29:06] "POST /socket.io/?EIO=4&transport=polling&t=O_ludBY&sid=d6f8syXSaKppRT0_AAAG HTTP/1.1" 200 195 0.001032
+2024-06-07 02:29:06,278 - INFO - 127.0.0.1 - - [2024-06-07 02:29:06] "GET /socket.io/?EIO=4&transport=polling&t=O_ludBZ&sid=d6f8syXSaKppRT0_AAAG HTTP/1.1" 200 239 0.000000
+2024-06-07 02:29:06,580 - INFO - 127.0.0.1 - - [2024-06-07 02:29:06] "GET /socket.io/?EIO=4&transport=polling&t=O_ludBe&sid=d6f8syXSaKppRT0_AAAG HTTP/1.1" 200 157 0.300033
+2024-06-07 02:29:27,212 - INFO - Rendering results with alerts: []
+2024-06-07 02:29:27,213 - INFO - 127.0.0.1 - - [2024-06-07 02:29:27] "GET /results HTTP/1.1" 200 10991 0.001004
+2024-06-07 02:29:27,237 - INFO - 127.0.0.1 - - [2024-06-07 02:29:27] "GET /static/result.png HTTP/1.1" 304 187 0.001999
+2024-06-07 02:29:27,253 - INFO - 127.0.0.1 - - [2024-06-07 02:29:27] "GET /socket.io/?EIO=4&transport=polling&t=O_luiJ3 HTTP/1.1" 200 254 0.002012
+2024-06-07 02:29:27,298 - INFO - 127.0.0.1 - - [2024-06-07 02:29:27] "POST /socket.io/?EIO=4&transport=polling&t=O_luiJv&sid=HzTCxj5yYYSF2ZeIAAAI HTTP/1.1" 200 195 0.000000
+2024-06-07 02:29:27,300 - INFO - 127.0.0.1 - - [2024-06-07 02:29:27] "GET /socket.io/?EIO=4&transport=polling&t=O_luiJw&sid=HzTCxj5yYYSF2ZeIAAAI HTTP/1.1" 200 239 0.001560
+2024-06-07 02:29:27,600 - INFO - 127.0.0.1 - - [2024-06-07 02:29:27] "GET /socket.io/?EIO=4&transport=polling&t=O_luiK6&sid=HzTCxj5yYYSF2ZeIAAAI HTTP/1.1" 200 157 0.296874
+2024-06-07 02:29:28,286 - INFO - 127.0.0.1 - - [2024-06-07 02:29:28] "GET / HTTP/1.1" 200 6476 0.000000
+2024-06-07 02:29:28,307 - INFO - 127.0.0.1 - - [2024-06-07 02:29:28] "GET /socket.io/?EIO=4&transport=polling&t=O_luiZn HTTP/1.1" 200 254 0.000998
+2024-06-07 02:29:28,318 - INFO - 127.0.0.1 - - [2024-06-07 02:29:28] "GET /static/index.png HTTP/1.1" 304 185 0.000991
+2024-06-07 02:29:28,321 - INFO - 127.0.0.1 - - [2024-06-07 02:29:28] "POST /socket.io/?EIO=4&transport=polling&t=O_luiZz&sid=EZOafeA_ABYJaGCaAAAK HTTP/1.1" 200 195 0.001334
+2024-06-07 02:29:28,323 - INFO - 127.0.0.1 - - [2024-06-07 02:29:28] "GET /socket.io/?EIO=4&transport=polling&t=O_luiZ-&sid=EZOafeA_ABYJaGCaAAAK HTTP/1.1" 200 239 0.000000
+2024-06-07 02:29:28,624 - INFO - 127.0.0.1 - - [2024-06-07 02:29:28] "GET /socket.io/?EIO=4&transport=polling&t=O_luiaI&sid=EZOafeA_ABYJaGCaAAAK HTTP/1.1" 200 157 0.275058
+2024-06-07 02:31:50,800 - INFO - 127.0.0.1 - - [2024-06-07 02:31:50] "GET /socket.io/?EIO=4&transport=polling&t=O_lvFDF HTTP/1.1" 200 254 0.000000
+2024-06-07 02:31:50,804 - INFO - 127.0.0.1 - - [2024-06-07 02:31:50] "POST /socket.io/?EIO=4&transport=polling&t=O_lvFMI&sid=jmisNr52rQpt_6-1AAAA HTTP/1.1" 200 195 0.001000
+2024-06-07 02:31:50,805 - INFO - 127.0.0.1 - - [2024-06-07 02:31:50] "GET /socket.io/?EIO=4&transport=polling&t=O_lvFMJ&sid=jmisNr52rQpt_6-1AAAA HTTP/1.1" 200 239 0.000000
+2024-06-07 02:31:51,113 - INFO - 127.0.0.1 - - [2024-06-07 02:31:51] "GET /socket.io/?EIO=4&transport=polling&t=O_lvFMM&sid=jmisNr52rQpt_6-1AAAA HTTP/1.1" 200 157 0.305624
+2024-06-07 02:32:10,536 - INFO - 127.0.0.1 - - [2024-06-07 02:32:10] "GET /socket.io/?EIO=4&transport=polling&t=O_lvK5h HTTP/1.1" 200 254 0.001000
+2024-06-07 02:32:10,551 - INFO - 127.0.0.1 - - [2024-06-07 02:32:10] "POST /socket.io/?EIO=4&transport=polling&t=O_lvKAg&sid=ZJPAtwMUgU4ZWCBYAAAA HTTP/1.1" 200 195 0.002097
+2024-06-07 02:32:10,554 - INFO - 127.0.0.1 - - [2024-06-07 02:32:10] "GET /socket.io/?EIO=4&transport=polling&t=O_lvKAh&sid=ZJPAtwMUgU4ZWCBYAAAA HTTP/1.1" 200 239 0.000992
+2024-06-07 02:32:10,860 - INFO - 127.0.0.1 - - [2024-06-07 02:32:10] "GET /socket.io/?EIO=4&transport=polling&t=O_lvKAy&sid=ZJPAtwMUgU4ZWCBYAAAA HTTP/1.1" 200 157 0.302081
+2024-06-07 02:32:12,914 - INFO - 127.0.0.1 - - [2024-06-07 02:32:12] "GET / HTTP/1.1" 200 6476 0.005526
+2024-06-07 02:32:13,043 - INFO - 127.0.0.1 - - [2024-06-07 02:32:13] "GET /static/index.png HTTP/1.1" 304 185 0.088917
+2024-06-07 02:32:13,045 - INFO - 127.0.0.1 - - [2024-06-07 02:32:13] "GET /socket.io/?EIO=4&transport=polling&t=O_lvKmm HTTP/1.1" 200 254 0.001001
+2024-06-07 02:32:13,048 - INFO - 127.0.0.1 - - [2024-06-07 02:32:13] "POST /socket.io/?EIO=4&transport=polling&t=O_lvKnt&sid=eXNC6veCmkB39uTSAAAC HTTP/1.1" 200 195 0.000000
+2024-06-07 02:32:13,051 - INFO - 127.0.0.1 - - [2024-06-07 02:32:13] "GET /socket.io/?EIO=4&transport=polling&t=O_lvKnu&sid=eXNC6veCmkB39uTSAAAC HTTP/1.1" 200 239 0.000000
+2024-06-07 02:32:13,352 - INFO - 127.0.0.1 - - [2024-06-07 02:32:13] "GET /socket.io/?EIO=4&transport=polling&t=O_lvKo2&sid=eXNC6veCmkB39uTSAAAC HTTP/1.1" 200 157 0.292499
+2024-06-07 02:33:48,200 - INFO - 127.0.0.1 - - [2024-06-07 02:33:48] "GET /socket.io/?EIO=4&transport=polling&t=O_lvhnE HTTP/1.1" 200 254 0.001006
+2024-06-07 02:33:48,203 - INFO - 127.0.0.1 - - [2024-06-07 02:33:48] "POST /socket.io/?EIO=4&transport=polling&t=O_lvi0e&sid=Ob7zzjOF683NWueuAAAA HTTP/1.1" 200 195 0.001000
+2024-06-07 02:33:48,204 - INFO - 127.0.0.1 - - [2024-06-07 02:33:48] "GET /socket.io/?EIO=4&transport=polling&t=O_lvi0f&sid=Ob7zzjOF683NWueuAAAA HTTP/1.1" 200 239 0.000000
+2024-06-07 02:33:48,514 - INFO - 127.0.0.1 - - [2024-06-07 02:33:48] "GET /socket.io/?EIO=4&transport=polling&t=O_lvi0j&sid=Ob7zzjOF683NWueuAAAA HTTP/1.1" 200 157 0.306888
+2024-06-07 02:34:00,566 - INFO - 127.0.0.1 - - [2024-06-07 02:34:00] "GET / HTTP/1.1" 200 6698 0.036424
+2024-06-07 02:34:00,602 - INFO - 127.0.0.1 - - [2024-06-07 02:34:00] "GET /socket.io/?EIO=4&transport=polling&t=O_lvl2P HTTP/1.1" 200 254 0.000000
+2024-06-07 02:34:00,688 - INFO - 127.0.0.1 - - [2024-06-07 02:34:00] "GET /static/index.png HTTP/1.1" 304 185 0.083958
+2024-06-07 02:34:00,690 - INFO - 127.0.0.1 - - [2024-06-07 02:34:00] "POST /socket.io/?EIO=4&transport=polling&t=O_lvl2f&sid=t9hoboaPyOVRvHuFAAAA HTTP/1.1" 200 195 0.001007
+2024-06-07 02:34:00,691 - INFO - 127.0.0.1 - - [2024-06-07 02:34:00] "GET /socket.io/?EIO=4&transport=polling&t=O_lvl2h&sid=t9hoboaPyOVRvHuFAAAA HTTP/1.1" 200 239 0.000000
+2024-06-07 02:34:00,935 - INFO - 127.0.0.1 - - [2024-06-07 02:34:00] "GET /socket.io/?EIO=4&transport=polling&t=O_lvl3r&sid=t9hoboaPyOVRvHuFAAAA HTTP/1.1" 200 157 0.240284
+2024-06-07 02:34:01,217 - INFO - 127.0.0.1 - - [2024-06-07 02:34:01] "GET /socket.io/?EIO=4&transport=polling&t=O_lvlB- HTTP/1.1" 200 254 0.000000
+2024-06-07 02:34:01,220 - INFO - 127.0.0.1 - - [2024-06-07 02:34:01] "POST /socket.io/?EIO=4&transport=polling&t=O_lvlC2&sid=H9nzTInwqgatHVDLAAAC HTTP/1.1" 200 195 0.001019
+2024-06-07 02:34:01,221 - INFO - 127.0.0.1 - - [2024-06-07 02:34:01] "GET /socket.io/?EIO=4&transport=polling&t=O_lvlC3&sid=H9nzTInwqgatHVDLAAAC HTTP/1.1" 200 239 0.000000
+2024-06-07 02:34:01,529 - INFO - 127.0.0.1 - - [2024-06-07 02:34:01] "GET /socket.io/?EIO=4&transport=polling&t=O_lvlC6&sid=H9nzTInwqgatHVDLAAAC HTTP/1.1" 200 157 0.304438
+2024-06-07 02:36:09,293 - INFO - 127.0.0.1 - - [2024-06-07 02:36:09] "POST /start_scan HTTP/1.1" 200 163 0.008554
+2024-06-07 02:36:09,849 - INFO - Starting active host discovery...
+2024-06-07 02:36:09,880 - INFO - Performing a ping scan to discover active hosts...
+2024-06-07 02:36:14,904 - INFO - Active hosts discovered: ['192.168.1.1', '192.168.1.27', '192.168.1.29']
+2024-06-07 02:36:14,905 - INFO - Active hosts discovered: ['192.168.1.1', '192.168.1.27', '192.168.1.29']
+2024-06-07 02:36:14,927 - INFO - Starting Nmap scan on target: 192.168.1.1 192.168.1.27 192.168.1.29 with scan type: -F
+2024-06-07 02:36:16,510 - INFO - Nmap scan completed in 1.58 seconds
+2024-06-07 02:36:16,510 - INFO - Nmap scan completed.
+2024-06-07 02:36:16,511 - INFO - Starting packet capture...
+2024-06-07 02:36:16,632 - INFO - Source IP: 69.50.95.167, Destination IP: 192.168.1.27
+2024-06-07 02:36:16,634 - ERROR - Error capturing packets: [Errno 2] No such file or directory: ''
+2024-06-07 02:36:16,634 - INFO - Packet capture completed.
+2024-06-07 02:36:16,635 - INFO - Retrieving ARP table...
+2024-06-07 02:36:16,662 - INFO - ARP Table:
+2024-06-07 02:36:16,662 - INFO - 
+Interface: 192.168.56.1 --- 0xb
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+Interface: 192.168.1.27 --- 0xc
+  Internet Address      Physical Address      Type
+  192.168.1.1           d4-46-49-74-91-db     dynamic   
+  192.168.1.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.102.18        01-00-5e-7f-66-12     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+2024-06-07 02:36:16,666 - INFO - ARP table retrieval completed.
+2024-06-07 02:36:16,666 - INFO - Alerting if any open ports are found...
+2024-06-07 02:36:16,681 - ERROR - Error sending email: [Errno 11001] getaddrinfo failed
+2024-06-07 02:36:16,681 - WARNING - Suspicious network activity detected and email alert sent with open port details!
+2024-06-07 02:36:16,681 - INFO - Alerts detected: []
+2024-06-07 02:36:16,688 - INFO - Rendering results with alerts: []
+2024-06-07 02:36:16,694 - INFO - 127.0.0.1 - - [2024-06-07 02:36:16] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 10823 0.007553
+2024-06-07 02:36:16,712 - INFO - 127.0.0.1 - - [2024-06-07 02:36:16] "GET /static/result.png HTTP/1.1" 304 187 0.001023
+2024-06-07 02:36:16,714 - INFO - 127.0.0.1 - - [2024-06-07 02:36:16] "GET /socket.io/?EIO=4&transport=polling&t=O_lwGH6 HTTP/1.1" 200 254 0.000000
+2024-06-07 02:36:16,718 - INFO - 127.0.0.1 - - [2024-06-07 02:36:16] "POST /socket.io/?EIO=4&transport=polling&t=O_lwGHB&sid=8W0woFYm_vOnvhYFAAAE HTTP/1.1" 200 195 0.000000
+2024-06-07 02:36:16,720 - INFO - 127.0.0.1 - - [2024-06-07 02:36:16] "GET /socket.io/?EIO=4&transport=polling&t=O_lwGHC&sid=8W0woFYm_vOnvhYFAAAE HTTP/1.1" 200 239 0.000000
+2024-06-07 02:36:17,028 - INFO - 127.0.0.1 - - [2024-06-07 02:36:17] "GET /socket.io/?EIO=4&transport=polling&t=O_lwGHG&sid=8W0woFYm_vOnvhYFAAAE HTTP/1.1" 200 157 0.305393
+2024-06-07 02:36:17,702 - INFO - Rendering results with alerts: []
+2024-06-07 02:36:17,702 - INFO - 127.0.0.1 - - [2024-06-07 02:36:17] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 10823 0.001002
+2024-06-07 02:36:17,726 - INFO - 127.0.0.1 - - [2024-06-07 02:36:17] "GET /static/result.png HTTP/1.1" 304 187 0.001000
+2024-06-07 02:36:17,727 - INFO - 127.0.0.1 - - [2024-06-07 02:36:17] "GET /socket.io/?EIO=4&transport=polling&t=O_lwGWx HTTP/1.1" 200 254 0.000000
+2024-06-07 02:36:17,746 - INFO - 127.0.0.1 - - [2024-06-07 02:36:17] "POST /socket.io/?EIO=4&transport=polling&t=O_lwGXD&sid=mX1dRuXjUgEIWUZAAAAG HTTP/1.1" 200 195 0.001008
+2024-06-07 02:36:17,747 - INFO - 127.0.0.1 - - [2024-06-07 02:36:17] "GET /socket.io/?EIO=4&transport=polling&t=O_lwGXE&sid=mX1dRuXjUgEIWUZAAAAG HTTP/1.1" 200 239 0.000000
+2024-06-07 02:36:18,057 - INFO - 127.0.0.1 - - [2024-06-07 02:36:18] "GET /socket.io/?EIO=4&transport=polling&t=O_lwGXK&sid=mX1dRuXjUgEIWUZAAAAG HTTP/1.1" 200 157 0.307459
+2024-06-07 02:39:34,081 - INFO - 127.0.0.1 - - [2024-06-07 02:39:34] "GET /socket.io/?EIO=4&transport=polling&t=O_lx003 HTTP/1.1" 200 254 0.000000
+2024-06-07 02:39:34,085 - INFO - 127.0.0.1 - - [2024-06-07 02:39:34] "POST /socket.io/?EIO=4&transport=polling&t=O_lx0T3&sid=XrXyKlrAjWdtmTEmAAAA HTTP/1.1" 200 195 0.000997
+2024-06-07 02:39:34,086 - INFO - 127.0.0.1 - - [2024-06-07 02:39:34] "GET /socket.io/?EIO=4&transport=polling&t=O_lx0T4&sid=XrXyKlrAjWdtmTEmAAAA HTTP/1.1" 200 239 0.000000
+2024-06-07 02:39:34,394 - INFO - 127.0.0.1 - - [2024-06-07 02:39:34] "GET /socket.io/?EIO=4&transport=polling&t=O_lx0T8&sid=XrXyKlrAjWdtmTEmAAAA HTTP/1.1" 200 157 0.304904
+2024-06-07 02:39:40,529 - INFO - 127.0.0.1 - - [2024-06-07 02:39:40] "GET /socket.io/?EIO=4&transport=polling&t=O_lx1yt HTTP/1.1" 200 254 0.000000
+2024-06-07 02:39:40,533 - INFO - 127.0.0.1 - - [2024-06-07 02:39:40] "POST /socket.io/?EIO=4&transport=polling&t=O_lx21o&sid=o4jhG9DVhZAYYu40AAAA HTTP/1.1" 200 195 0.001031
+2024-06-07 02:39:40,534 - INFO - 127.0.0.1 - - [2024-06-07 02:39:40] "GET /socket.io/?EIO=4&transport=polling&t=O_lx21p&sid=o4jhG9DVhZAYYu40AAAA HTTP/1.1" 200 239 0.000000
+2024-06-07 02:39:40,840 - INFO - 127.0.0.1 - - [2024-06-07 02:39:40] "GET /socket.io/?EIO=4&transport=polling&t=O_lx21t&sid=o4jhG9DVhZAYYu40AAAA HTTP/1.1" 200 157 0.303792
+2024-06-07 02:39:43,663 - INFO - 127.0.0.1 - - [2024-06-07 02:39:43] "GET / HTTP/1.1" 200 6698 0.004496
+2024-06-07 02:39:43,714 - INFO - 127.0.0.1 - - [2024-06-07 02:39:43] "GET /socket.io/?EIO=4&transport=polling&t=O_lx2pX HTTP/1.1" 200 254 0.000000
+2024-06-07 02:39:43,804 - INFO - 127.0.0.1 - - [2024-06-07 02:39:43] "GET /static/index.png HTTP/1.1" 304 185 0.088026
+2024-06-07 02:39:43,806 - INFO - 127.0.0.1 - - [2024-06-07 02:39:43] "POST /socket.io/?EIO=4&transport=polling&t=O_lx2pq&sid=qtJMKGGSEV7mX2F7AAAC HTTP/1.1" 200 195 0.001001
+2024-06-07 02:39:43,808 - INFO - 127.0.0.1 - - [2024-06-07 02:39:43] "GET /socket.io/?EIO=4&transport=polling&t=O_lx2ps&sid=qtJMKGGSEV7mX2F7AAAC HTTP/1.1" 200 239 0.001001
+2024-06-07 02:39:44,045 - INFO - 127.0.0.1 - - [2024-06-07 02:39:44] "GET /socket.io/?EIO=4&transport=polling&t=O_lx2r4&sid=qtJMKGGSEV7mX2F7AAAC HTTP/1.1" 200 157 0.232898
+2024-06-07 02:39:50,611 - INFO - 127.0.0.1 - - [2024-06-07 02:39:50] "POST /start_scan HTTP/1.1" 200 163 0.007519
+2024-06-07 02:39:51,161 - INFO - Starting Nmap scan...
+2024-06-07 02:39:51,186 - INFO - Starting Nmap scan on target: 192.168.1.0/24 with scan type: -F
+2024-06-07 02:39:59,144 - INFO - Nmap scan completed in 7.96 seconds
+2024-06-07 02:39:59,145 - INFO - Nmap scan completed.
+2024-06-07 02:39:59,145 - INFO - Starting packet capture...
+2024-06-07 02:39:59,154 - INFO - Source IP: 192.168.1.27, Destination IP: 35.186.224.28
+2024-06-07 02:39:59,155 - INFO - Source Port: 36990, Destination Port: 443
+2024-06-07 02:39:59,156 - ERROR - Error capturing packets: [Errno 2] No such file or directory: ''
+2024-06-07 02:39:59,157 - INFO - Packet capture completed.
+2024-06-07 02:39:59,157 - INFO - Retrieving ARP table...
+2024-06-07 02:39:59,183 - INFO - ARP Table:
+2024-06-07 02:39:59,184 - INFO - 
+Interface: 192.168.56.1 --- 0xb
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+Interface: 192.168.1.27 --- 0xc
+  Internet Address      Physical Address      Type
+  192.168.1.1           d4-46-49-74-91-db     dynamic   
+  192.168.1.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.102.18        01-00-5e-7f-66-12     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+2024-06-07 02:39:59,187 - INFO - ARP table retrieval completed.
+2024-06-07 02:39:59,187 - INFO - Alerting if any open ports are found...
+2024-06-07 02:39:59,194 - ERROR - Error sending email: [Errno 11001] getaddrinfo failed
+2024-06-07 02:39:59,195 - WARNING - Suspicious network activity detected and email alert sent with open port details!
+2024-06-07 02:39:59,195 - INFO - Alerts detected: []
+2024-06-07 02:39:59,201 - INFO - Rendering results with alerts: []
+2024-06-07 02:39:59,226 - INFO - 127.0.0.1 - - [2024-06-07 02:39:59] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 12612 0.024574
+2024-06-07 02:39:59,242 - INFO - 127.0.0.1 - - [2024-06-07 02:39:59] "GET /static/result.png HTTP/1.1" 304 187 0.001000
+2024-06-07 02:39:59,244 - INFO - 127.0.0.1 - - [2024-06-07 02:39:59] "GET /socket.io/?EIO=4&transport=polling&t=O_lx6c9 HTTP/1.1" 200 254 0.001000
+2024-06-07 02:39:59,248 - INFO - 127.0.0.1 - - [2024-06-07 02:39:59] "POST /socket.io/?EIO=4&transport=polling&t=O_lx6cE&sid=5hm_clqBNRJUL4-9AAAE HTTP/1.1" 200 195 0.001031
+2024-06-07 02:39:59,249 - INFO - 127.0.0.1 - - [2024-06-07 02:39:59] "GET /socket.io/?EIO=4&transport=polling&t=O_lx6cE.0&sid=5hm_clqBNRJUL4-9AAAE HTTP/1.1" 200 239 0.000000
+2024-06-07 02:39:59,561 - INFO - 127.0.0.1 - - [2024-06-07 02:39:59] "GET /socket.io/?EIO=4&transport=polling&t=O_lx6cI&sid=5hm_clqBNRJUL4-9AAAE HTTP/1.1" 200 157 0.308870
+2024-06-07 02:40:00,216 - INFO - Rendering results with alerts: []
+2024-06-07 02:40:00,217 - INFO - 127.0.0.1 - - [2024-06-07 02:40:00] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 12612 0.001000
+2024-06-07 02:40:00,244 - INFO - 127.0.0.1 - - [2024-06-07 02:40:00] "GET /static/result.png HTTP/1.1" 304 187 0.001004
+2024-06-07 02:40:00,246 - INFO - 127.0.0.1 - - [2024-06-07 02:40:00] "GET /socket.io/?EIO=4&transport=polling&t=O_lx6rk HTTP/1.1" 200 254 0.000000
+2024-06-07 02:40:00,259 - INFO - 127.0.0.1 - - [2024-06-07 02:40:00] "POST /socket.io/?EIO=4&transport=polling&t=O_lx6s0&sid=y3e0UgnKAsSO7_mJAAAG HTTP/1.1" 200 195 0.000000
+2024-06-07 02:40:00,261 - INFO - 127.0.0.1 - - [2024-06-07 02:40:00] "GET /socket.io/?EIO=4&transport=polling&t=O_lx6s0.0&sid=y3e0UgnKAsSO7_mJAAAG HTTP/1.1" 200 239 0.000000
+2024-06-07 02:40:00,350 - INFO - 127.0.0.1 - - [2024-06-07 02:40:00] "GET /socket.io/?EIO=4&transport=polling&t=O_lx6sC&sid=y3e0UgnKAsSO7_mJAAAG HTTP/1.1" 200 1030 0.080190
+2024-06-07 02:40:00,572 - INFO - 127.0.0.1 - - [2024-06-07 02:40:00] "GET /socket.io/?EIO=4&transport=polling&t=O_lx6tX&sid=y3e0UgnKAsSO7_mJAAAG HTTP/1.1" 200 157 0.217392
+2024-06-07 02:41:17,871 - INFO - Rendering results with alerts: []
+2024-06-07 02:41:17,872 - INFO - 127.0.0.1 - - [2024-06-07 02:41:17] "GET /results HTTP/1.1" 200 12612 0.000992
+2024-06-07 02:41:17,897 - INFO - 127.0.0.1 - - [2024-06-07 02:41:17] "GET /static/result.png HTTP/1.1" 304 187 0.000000
+2024-06-07 02:41:17,899 - INFO - 127.0.0.1 - - [2024-06-07 02:41:17] "GET /socket.io/?EIO=4&transport=polling&t=O_lxPp2 HTTP/1.1" 200 254 0.000000
+2024-06-07 02:41:17,915 - INFO - 127.0.0.1 - - [2024-06-07 02:41:17] "POST /socket.io/?EIO=4&transport=polling&t=O_lxPpM&sid=6uLhq6MrNz3gXws4AAAI HTTP/1.1" 200 195 0.001012
+2024-06-07 02:41:17,916 - INFO - 127.0.0.1 - - [2024-06-07 02:41:17] "GET /socket.io/?EIO=4&transport=polling&t=O_lxPpN&sid=6uLhq6MrNz3gXws4AAAI HTTP/1.1" 200 239 0.000000
+2024-06-07 02:41:18,223 - INFO - 127.0.0.1 - - [2024-06-07 02:41:18] "GET /socket.io/?EIO=4&transport=polling&t=O_lxPpT&sid=6uLhq6MrNz3gXws4AAAI HTTP/1.1" 200 157 0.304607
+2024-06-07 02:41:32,225 - INFO - 127.0.0.1 - - [2024-06-07 02:41:32] "GET /socket.io/?EIO=4&transport=polling&t=O_lxTI- HTTP/1.1" 200 254 0.000999
+2024-06-07 02:41:32,229 - INFO - 127.0.0.1 - - [2024-06-07 02:41:32] "POST /socket.io/?EIO=4&transport=polling&t=O_lxTJ2&sid=KQeqIwGFlU-yfy6oAAAA HTTP/1.1" 200 195 0.001006
+2024-06-07 02:41:32,231 - INFO - 127.0.0.1 - - [2024-06-07 02:41:32] "GET /socket.io/?EIO=4&transport=polling&t=O_lxTJ3&sid=KQeqIwGFlU-yfy6oAAAA HTTP/1.1" 200 239 0.001000
+2024-06-07 02:41:32,536 - INFO - 127.0.0.1 - - [2024-06-07 02:41:32] "GET /socket.io/?EIO=4&transport=polling&t=O_lxTJ7&sid=KQeqIwGFlU-yfy6oAAAA HTTP/1.1" 200 157 0.303193
+2024-06-07 02:41:45,526 - INFO - 127.0.0.1 - - [2024-06-07 02:41:45] "GET /socket.io/?EIO=4&transport=polling&t=O_lxWT_ HTTP/1.1" 200 254 0.001000
+2024-06-07 02:41:45,531 - INFO - 127.0.0.1 - - [2024-06-07 02:41:45] "POST /socket.io/?EIO=4&transport=polling&t=O_lxWYt&sid=-HaOhJ3sWvExUTEhAAAA HTTP/1.1" 200 195 0.001999
+2024-06-07 02:41:45,533 - INFO - 127.0.0.1 - - [2024-06-07 02:41:45] "GET /socket.io/?EIO=4&transport=polling&t=O_lxWYu&sid=-HaOhJ3sWvExUTEhAAAA HTTP/1.1" 200 239 0.001002
+2024-06-07 02:41:45,840 - INFO - 127.0.0.1 - - [2024-06-07 02:41:45] "GET /socket.io/?EIO=4&transport=polling&t=O_lxWY-&sid=-HaOhJ3sWvExUTEhAAAA HTTP/1.1" 200 157 0.303705
+2024-06-07 02:41:54,976 - INFO - 127.0.0.1 - - [2024-06-07 02:41:54] "GET / HTTP/1.1" 200 6698 0.003999
+2024-06-07 02:41:55,018 - INFO - 127.0.0.1 - - [2024-06-07 02:41:55] "GET /socket.io/?EIO=4&transport=polling&t=O_lxYt7 HTTP/1.1" 200 254 0.000997
+2024-06-07 02:41:55,109 - INFO - 127.0.0.1 - - [2024-06-07 02:41:55] "GET /static/index.png HTTP/1.1" 304 185 0.089230
+2024-06-07 02:41:55,111 - INFO - 127.0.0.1 - - [2024-06-07 02:41:55] "POST /socket.io/?EIO=4&transport=polling&t=O_lxYtR&sid=kgsdkZ9VMmag4HFBAAAA HTTP/1.1" 200 195 0.001001
+2024-06-07 02:41:55,112 - INFO - 127.0.0.1 - - [2024-06-07 02:41:55] "GET /socket.io/?EIO=4&transport=polling&t=O_lxYtS&sid=kgsdkZ9VMmag4HFBAAAA HTTP/1.1" 200 239 0.000000
+2024-06-07 02:41:55,236 - INFO - 127.0.0.1 - - [2024-06-07 02:41:55] "GET /socket.io/?EIO=4&transport=polling&t=O_lxYwK HTTP/1.1" 200 254 0.001012
+2024-06-07 02:41:55,240 - INFO - 127.0.0.1 - - [2024-06-07 02:41:55] "POST /socket.io/?EIO=4&transport=polling&t=O_lxYwb&sid=HWfIhjOmlZSTLjTyAAAC HTTP/1.1" 200 195 0.001014
+2024-06-07 02:41:55,241 - INFO - 127.0.0.1 - - [2024-06-07 02:41:55] "GET /socket.io/?EIO=4&transport=polling&t=O_lxYwc&sid=HWfIhjOmlZSTLjTyAAAC HTTP/1.1" 200 239 0.000000
+2024-06-07 02:41:55,348 - INFO - 127.0.0.1 - - [2024-06-07 02:41:55] "GET /socket.io/?EIO=4&transport=polling&t=O_lxYui&sid=kgsdkZ9VMmag4HFBAAAA HTTP/1.1" 200 157 0.223807
+2024-06-07 02:41:55,548 - INFO - 127.0.0.1 - - [2024-06-07 02:41:55] "GET /socket.io/?EIO=4&transport=polling&t=O_lxYwg&sid=HWfIhjOmlZSTLjTyAAAC HTTP/1.1" 200 157 0.304210
+2024-06-07 02:42:02,791 - INFO - 127.0.0.1 - - [2024-06-07 02:42:02] "POST /start_scan HTTP/1.1" 200 163 0.010519
+2024-06-07 02:42:03,379 - INFO - Starting Nmap scan...
+2024-06-07 02:42:03,403 - INFO - Starting Nmap scan on target: 192.168.1.0/24 with scan type: -F
+2024-06-07 02:42:06,864 - INFO - Nmap scan completed in 3.46 seconds
+2024-06-07 02:42:06,864 - INFO - Nmap scan completed.
+2024-06-07 02:42:06,865 - INFO - Starting packet capture...
+2024-06-07 02:42:06,994 - INFO - Source IP: 192.168.1.27, Destination IP: 169.150.215.50
+2024-06-07 02:42:06,995 - INFO - Source Port: 24752, Destination Port: 443
+2024-06-07 02:42:06,996 - ERROR - Error capturing packets: [Errno 2] No such file or directory: ''
+2024-06-07 02:42:06,997 - INFO - Packet capture completed.
+2024-06-07 02:42:06,998 - INFO - Retrieving ARP table...
+2024-06-07 02:42:07,029 - INFO - ARP Table:
+2024-06-07 02:42:07,029 - INFO - 
+Interface: 192.168.56.1 --- 0xb
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+Interface: 192.168.1.27 --- 0xc
+  Internet Address      Physical Address      Type
+  192.168.1.1           d4-46-49-74-91-db     dynamic   
+  192.168.1.255         ff-ff-ff-ff-ff-ff     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+2024-06-07 02:42:07,031 - INFO - ARP table retrieval completed.
+2024-06-07 02:42:07,031 - INFO - Alerting if any open ports are found...
+2024-06-07 02:42:07,042 - ERROR - Error sending email: [Errno 11001] getaddrinfo failed
+2024-06-07 02:42:07,043 - WARNING - Suspicious network activity detected and email alert sent with open port details!
+2024-06-07 02:42:07,043 - INFO - Alerts detected: []
+2024-06-07 02:42:07,048 - INFO - Rendering results with alerts: []
+2024-06-07 02:42:07,058 - INFO - 127.0.0.1 - - [2024-06-07 02:42:07] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 11751 0.009888
+2024-06-07 02:42:07,074 - INFO - 127.0.0.1 - - [2024-06-07 02:42:07] "GET /static/result.png HTTP/1.1" 304 187 0.001984
+2024-06-07 02:42:07,076 - INFO - 127.0.0.1 - - [2024-06-07 02:42:07] "GET /socket.io/?EIO=4&transport=polling&t=O_lxbpW HTTP/1.1" 200 254 0.000000
+2024-06-07 02:42:07,081 - INFO - 127.0.0.1 - - [2024-06-07 02:42:07] "POST /socket.io/?EIO=4&transport=polling&t=O_lxbpd&sid=_dh57ylsbUbMuiFZAAAE HTTP/1.1" 200 195 0.001001
+2024-06-07 02:42:07,082 - INFO - 127.0.0.1 - - [2024-06-07 02:42:07] "GET /socket.io/?EIO=4&transport=polling&t=O_lxbpe&sid=_dh57ylsbUbMuiFZAAAE HTTP/1.1" 200 239 0.000000
+2024-06-07 02:42:07,395 - INFO - 127.0.0.1 - - [2024-06-07 02:42:07] "GET /socket.io/?EIO=4&transport=polling&t=O_lxbpi&sid=_dh57ylsbUbMuiFZAAAE HTTP/1.1" 200 157 0.309608
+2024-06-07 02:42:08,053 - INFO - Rendering results with alerts: []
+2024-06-07 02:42:08,054 - INFO - 127.0.0.1 - - [2024-06-07 02:42:08] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 11751 0.001004
+2024-06-07 02:42:08,082 - INFO - 127.0.0.1 - - [2024-06-07 02:42:08] "GET /static/result.png HTTP/1.1" 304 187 0.000994
+2024-06-07 02:42:08,094 - INFO - 127.0.0.1 - - [2024-06-07 02:42:08] "GET /socket.io/?EIO=4&transport=polling&t=O_lxc3O HTTP/1.1" 200 254 0.000000
+2024-06-07 02:42:08,148 - INFO - 127.0.0.1 - - [2024-06-07 02:42:08] "POST /socket.io/?EIO=4&transport=polling&t=O_lxc49&sid=79D0m8TDS8B6B5ZtAAAG HTTP/1.1" 200 195 0.001506
+2024-06-07 02:42:08,149 - INFO - 127.0.0.1 - - [2024-06-07 02:42:08] "GET /socket.io/?EIO=4&transport=polling&t=O_lxc4A&sid=79D0m8TDS8B6B5ZtAAAG HTTP/1.1" 200 239 0.000000
+2024-06-07 02:42:08,451 - INFO - 127.0.0.1 - - [2024-06-07 02:42:08] "GET /socket.io/?EIO=4&transport=polling&t=O_lxc4N&sid=79D0m8TDS8B6B5ZtAAAG HTTP/1.1" 200 157 0.298980
+2024-06-07 02:42:27,855 - INFO - 127.0.0.1 - - [2024-06-07 02:42:27] "GET / HTTP/1.1" 200 6698 0.001034
+2024-06-07 02:42:27,876 - INFO - 127.0.0.1 - - [2024-06-07 02:42:27] "GET /socket.io/?EIO=4&transport=polling&t=O_lxguY HTTP/1.1" 200 254 0.000000
+2024-06-07 02:42:27,889 - INFO - 127.0.0.1 - - [2024-06-07 02:42:27] "GET /static/index.png HTTP/1.1" 304 185 0.002516
+2024-06-07 02:42:27,896 - INFO - 127.0.0.1 - - [2024-06-07 02:42:27] "POST /socket.io/?EIO=4&transport=polling&t=O_lxguq&sid=wtwBTZpS8VmcFk6AAAAI HTTP/1.1" 200 195 0.001000
+2024-06-07 02:42:27,898 - INFO - 127.0.0.1 - - [2024-06-07 02:42:27] "GET /socket.io/?EIO=4&transport=polling&t=O_lxguq.0&sid=wtwBTZpS8VmcFk6AAAAI HTTP/1.1" 200 239 0.000999
+2024-06-07 02:42:28,201 - INFO - 127.0.0.1 - - [2024-06-07 02:42:28] "GET /socket.io/?EIO=4&transport=polling&t=O_lxgv3&sid=wtwBTZpS8VmcFk6AAAAI HTTP/1.1" 200 157 0.283170
+2024-06-07 02:42:37,432 - INFO - 127.0.0.1 - - [2024-06-07 02:42:37] "POST /start_scan HTTP/1.1" 200 167 0.008510
+2024-06-07 02:42:38,070 - INFO - Starting Nmap scan...
+2024-06-07 02:42:38,095 - INFO - Starting Nmap scan on target: 192.168.1.0/24 with scan type: -sS -sV -O --script=default -T4
+2024-06-07 02:43:22,679 - INFO - 127.0.0.1 - - [2024-06-07 02:43:22] "GET / HTTP/1.1" 200 6698 0.001301
+2024-06-07 02:43:22,717 - INFO - 127.0.0.1 - - [2024-06-07 02:43:22] "GET /socket.io/?EIO=4&transport=polling&t=O_lxuHR HTTP/1.1" 200 254 0.001015
+2024-06-07 02:43:22,720 - INFO - 127.0.0.1 - - [2024-06-07 02:43:22] "GET /static/index.png HTTP/1.1" 304 185 0.000999
+2024-06-07 02:43:22,738 - INFO - 127.0.0.1 - - [2024-06-07 02:43:22] "POST /socket.io/?EIO=4&transport=polling&t=O_lxuHm&sid=vwsejXrkzAnx5X-WAAAK HTTP/1.1" 200 195 0.000999
+2024-06-07 02:43:22,739 - INFO - 127.0.0.1 - - [2024-06-07 02:43:22] "GET /socket.io/?EIO=4&transport=polling&t=O_lxuHn&sid=vwsejXrkzAnx5X-WAAAK HTTP/1.1" 200 239 0.000000
+2024-06-07 02:43:23,053 - INFO - 127.0.0.1 - - [2024-06-07 02:43:23] "GET /socket.io/?EIO=4&transport=polling&t=O_lxuHr&sid=vwsejXrkzAnx5X-WAAAK HTTP/1.1" 200 157 0.311004
+2024-06-07 02:46:11,481 - INFO - Nmap scan completed in 213.39 seconds
+2024-06-07 02:46:11,482 - INFO - Nmap scan completed.
+2024-06-07 02:46:11,482 - INFO - Starting packet capture...
+2024-06-07 02:46:11,489 - INFO - Source IP: 172.64.155.141, Destination IP: 192.168.1.27
+2024-06-07 02:46:11,490 - INFO - Source Port: 443, Destination Port: 59223
+2024-06-07 02:46:11,491 - ERROR - Error capturing packets: [Errno 2] No such file or directory: ''
+2024-06-07 02:46:11,492 - INFO - Packet capture completed.
+2024-06-07 02:46:11,493 - INFO - Retrieving ARP table...
+2024-06-07 02:46:11,524 - INFO - ARP Table:
+2024-06-07 02:46:11,524 - INFO - 
+Interface: 192.168.56.1 --- 0xb
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+Interface: 192.168.1.27 --- 0xc
+  Internet Address      Physical Address      Type
+  192.168.1.1           d4-46-49-74-91-db     dynamic   
+  192.168.1.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+2024-06-07 02:46:11,527 - INFO - ARP table retrieval completed.
+2024-06-07 02:46:11,528 - INFO - Alerting if any open ports are found...
+2024-06-07 02:46:11,542 - ERROR - Error sending email: [Errno 11001] getaddrinfo failed
+2024-06-07 02:46:11,543 - WARNING - Suspicious network activity detected and email alert sent with open port details!
+2024-06-07 02:46:11,544 - INFO - Alerts detected: []
+2024-06-07 02:46:13,227 - INFO - Rendering results with alerts: []
+2024-06-07 02:46:13,228 - INFO - 127.0.0.1 - - [2024-06-07 02:46:13] "GET /results?scan_type=Comprehensive%20Scan HTTP/1.1" 200 12104 0.002522
+2024-06-07 02:46:13,248 - INFO - 127.0.0.1 - - [2024-06-07 02:46:13] "GET /static/result.png HTTP/1.1" 304 187 0.001526
+2024-06-07 02:46:13,252 - INFO - 127.0.0.1 - - [2024-06-07 02:46:13] "GET /socket.io/?EIO=4&transport=polling&t=O_lyXw3 HTTP/1.1" 200 254 0.000000
+2024-06-07 02:46:13,267 - INFO - 127.0.0.1 - - [2024-06-07 02:46:13] "POST /socket.io/?EIO=4&transport=polling&t=O_lyXwH&sid=OKU540abdB_uJB6eAAAM HTTP/1.1" 200 195 0.000510
+2024-06-07 02:46:13,269 - INFO - 127.0.0.1 - - [2024-06-07 02:46:13] "GET /socket.io/?EIO=4&transport=polling&t=O_lyXwI&sid=OKU540abdB_uJB6eAAAM HTTP/1.1" 200 239 0.000000
+2024-06-07 02:46:13,570 - INFO - 127.0.0.1 - - [2024-06-07 02:46:13] "GET /socket.io/?EIO=4&transport=polling&t=O_lyXwM&sid=OKU540abdB_uJB6eAAAM HTTP/1.1" 200 157 0.298401
+2024-06-07 02:47:50,047 - INFO - 127.0.0.1 - - [2024-06-07 02:47:50] "GET / HTTP/1.1" 200 6698 0.004505
+2024-06-07 02:47:50,087 - INFO - 127.0.0.1 - - [2024-06-07 02:47:50] "GET /socket.io/?EIO=4&transport=polling&t=O_lyvZ5 HTTP/1.1" 200 254 0.000000
+2024-06-07 02:47:50,180 - INFO - 127.0.0.1 - - [2024-06-07 02:47:50] "GET /static/index.png HTTP/1.1" 304 185 0.089971
+2024-06-07 02:47:50,182 - INFO - 127.0.0.1 - - [2024-06-07 02:47:50] "POST /socket.io/?EIO=4&transport=polling&t=O_lyvZN&sid=W6t29OqArbVrKoDuAAAA HTTP/1.1" 200 195 0.001003
+2024-06-07 02:47:50,184 - INFO - 127.0.0.1 - - [2024-06-07 02:47:50] "GET /socket.io/?EIO=4&transport=polling&t=O_lyvZO&sid=W6t29OqArbVrKoDuAAAA HTTP/1.1" 200 239 0.000000
+2024-06-07 02:47:50,421 - INFO - 127.0.0.1 - - [2024-06-07 02:47:50] "GET /socket.io/?EIO=4&transport=polling&t=O_lyvaj&sid=W6t29OqArbVrKoDuAAAA HTTP/1.1" 200 157 0.229079
+2024-06-07 02:48:04,691 - INFO - 127.0.0.1 - - [2024-06-07 02:48:04] "POST /start_scan HTTP/1.1" 200 163 0.008580
+2024-06-07 02:48:05,247 - INFO - Starting Nmap scan...
+2024-06-07 02:48:05,271 - INFO - Starting Nmap scan on target: 192.168.1.0/24 with scan type: -F
+2024-06-07 02:48:08,694 - INFO - Nmap scan completed in 3.42 seconds
+2024-06-07 02:48:08,696 - INFO - Nmap scan completed.
+2024-06-07 02:48:08,696 - INFO - Starting packet capture...
+2024-06-07 02:48:08,907 - INFO - Source IP: 192.168.1.27, Destination IP: 72.21.17.75
+2024-06-07 02:48:08,908 - ERROR - Error capturing packets: [Errno 2] No such file or directory: ''
+2024-06-07 02:48:08,909 - INFO - Packet capture completed.
+2024-06-07 02:48:08,909 - INFO - Retrieving ARP table...
+2024-06-07 02:48:08,936 - INFO - ARP Table:
+2024-06-07 02:48:08,937 - INFO - 
+Interface: 192.168.56.1 --- 0xb
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+Interface: 192.168.1.27 --- 0xc
+  Internet Address      Physical Address      Type
+  192.168.1.1           d4-46-49-74-91-db     dynamic   
+  192.168.1.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+2024-06-07 02:48:08,939 - INFO - ARP table retrieval completed.
+2024-06-07 02:48:08,940 - INFO - Alerting if any open ports are found...
+2024-06-07 02:48:08,954 - ERROR - Error sending email: [Errno 11001] getaddrinfo failed
+2024-06-07 02:48:08,954 - WARNING - Suspicious network activity detected and email alert sent with open port details!
+2024-06-07 02:48:08,955 - INFO - Alerts detected: []
+2024-06-07 02:48:09,977 - INFO - Rendering results with alerts: []
+2024-06-07 02:48:09,986 - INFO - 127.0.0.1 - - [2024-06-07 02:48:09] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 11867 0.009276
+2024-06-07 02:48:10,012 - INFO - 127.0.0.1 - - [2024-06-07 02:48:10] "GET /socket.io/?EIO=4&transport=polling&t=O_ly-QO HTTP/1.1" 200 254 0.001011
+2024-06-07 02:48:10,015 - INFO - 127.0.0.1 - - [2024-06-07 02:48:10] "GET /static/result.png HTTP/1.1" 304 187 0.000998
+2024-06-07 02:48:10,029 - INFO - 127.0.0.1 - - [2024-06-07 02:48:10] "POST /socket.io/?EIO=4&transport=polling&t=O_ly-Qe&sid=HgcOrbiZczteTwZsAAAC HTTP/1.1" 200 195 0.001019
+2024-06-07 02:48:10,031 - INFO - 127.0.0.1 - - [2024-06-07 02:48:10] "GET /socket.io/?EIO=4&transport=polling&t=O_ly-Qf&sid=HgcOrbiZczteTwZsAAAC HTTP/1.1" 200 239 0.000000
+2024-06-07 02:48:10,347 - INFO - 127.0.0.1 - - [2024-06-07 02:48:10] "GET /socket.io/?EIO=4&transport=polling&t=O_ly-Qn&sid=HgcOrbiZczteTwZsAAAC HTTP/1.1" 200 157 0.312570
+2024-06-07 02:54:52,922 - INFO - 127.0.0.1 - - [2024-06-07 02:54:52] "GET / HTTP/1.1" 200 6698 0.004003
+2024-06-07 02:54:52,951 - INFO - 127.0.0.1 - - [2024-06-07 02:54:52] "GET /socket.io/?EIO=4&transport=polling&t=O_l-WoL HTTP/1.1" 200 254 0.000000
+2024-06-07 02:54:53,038 - INFO - 127.0.0.1 - - [2024-06-07 02:54:53] "GET /static/index.png HTTP/1.1" 304 185 0.085243
+2024-06-07 02:54:53,039 - INFO - 127.0.0.1 - - [2024-06-07 02:54:53] "POST /socket.io/?EIO=4&transport=polling&t=O_l-Woc&sid=uHZEeT_USJdwi82fAAAA HTTP/1.1" 200 195 0.000000
+2024-06-07 02:54:53,040 - INFO - 127.0.0.1 - - [2024-06-07 02:54:53] "GET /socket.io/?EIO=4&transport=polling&t=O_l-Woe&sid=uHZEeT_USJdwi82fAAAA HTTP/1.1" 200 239 0.000000
+2024-06-07 02:54:53,276 - INFO - 127.0.0.1 - - [2024-06-07 02:54:53] "GET /socket.io/?EIO=4&transport=polling&t=O_l-Wps&sid=uHZEeT_USJdwi82fAAAA HTTP/1.1" 200 157 0.226624
+2024-06-07 02:55:05,846 - INFO - 127.0.0.1 - - [2024-06-07 02:55:05] "POST /start_scan HTTP/1.1" 200 161 0.011039
+2024-06-07 02:55:06,411 - INFO - Starting Nmap scan...
+2024-06-07 02:55:06,434 - INFO - Starting Nmap scan on target: 192.168.1.0/24 with scan type: -sS -A -T4
+2024-06-07 02:58:39,838 - INFO - Nmap scan completed in 213.40 seconds
+2024-06-07 02:58:39,838 - INFO - Nmap scan completed.
+2024-06-07 02:58:39,838 - INFO - Starting packet capture...
+2024-06-07 02:58:39,935 - INFO - Source IP: 192.168.1.27, Destination IP: 120.221.80.41
+2024-06-07 02:58:39,936 - ERROR - Error capturing packets: [Errno 2] No such file or directory: ''
+2024-06-07 02:58:39,937 - INFO - Packet capture completed.
+2024-06-07 02:58:39,938 - INFO - Retrieving ARP table...
+2024-06-07 02:58:39,966 - INFO - ARP Table:
+2024-06-07 02:58:39,967 - INFO - 
+Interface: 192.168.56.1 --- 0xb
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+Interface: 192.168.1.27 --- 0xc
+  Internet Address      Physical Address      Type
+  192.168.1.1           d4-46-49-74-91-db     dynamic   
+  192.168.1.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+2024-06-07 02:58:39,970 - INFO - ARP table retrieval completed.
+2024-06-07 02:58:39,970 - INFO - Alerting if any open ports are found...
+2024-06-07 02:58:39,988 - ERROR - Error sending email: [Errno 11001] getaddrinfo failed
+2024-06-07 02:58:39,989 - WARNING - Suspicious network activity detected and email alert sent with open port details!
+2024-06-07 02:58:39,989 - INFO - Alerts detected: []
+2024-06-07 02:58:41,002 - ERROR - Exception on /results [GET]
+Traceback (most recent call last):
+  File "C:\Users\EXCALIBUR\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\EXCALIBUR\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\EXCALIBUR\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\EXCALIBUR\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\EXCALIBUR\Downloads\S.P.I.D.E.R\app.py", line 397, in results
+    logger.info(f"Rendering results with alerts: {alerts}")
+                                                  ^^^^^^
+NameError: name 'alerts' is not defined
+2024-06-07 02:58:41,006 - INFO - 127.0.0.1 - - [2024-06-07 02:58:41] "GET /results?scan_type=Intense%20Scan HTTP/1.1" 500 401 0.004516
+2024-06-07 03:02:13,263 - INFO - 127.0.0.1 - - [2024-06-07 03:02:13] "GET / HTTP/1.1" 200 6698 0.003493
+2024-06-07 03:02:13,296 - INFO - 127.0.0.1 - - [2024-06-07 03:02:13] "GET /socket.io/?EIO=4&transport=polling&t=O_m0CIk HTTP/1.1" 200 254 0.001031
+2024-06-07 03:02:13,394 - INFO - 127.0.0.1 - - [2024-06-07 03:02:13] "GET /static/index.png HTTP/1.1" 304 185 0.095687
+2024-06-07 03:02:13,396 - INFO - 127.0.0.1 - - [2024-06-07 03:02:13] "POST /socket.io/?EIO=4&transport=polling&t=O_m0CJ2&sid=57Cgp1aKm638ulP0AAAA HTTP/1.1" 200 195 0.001006
+2024-06-07 03:02:13,398 - INFO - 127.0.0.1 - - [2024-06-07 03:02:13] "GET /socket.io/?EIO=4&transport=polling&t=O_m0CJ4&sid=57Cgp1aKm638ulP0AAAA HTTP/1.1" 200 239 0.001003
+2024-06-07 03:02:13,635 - INFO - 127.0.0.1 - - [2024-06-07 03:02:13] "GET /socket.io/?EIO=4&transport=polling&t=O_m0CKO&sid=57Cgp1aKm638ulP0AAAA HTTP/1.1" 200 157 0.232137
+2024-06-07 03:02:23,613 - INFO - 127.0.0.1 - - [2024-06-07 03:02:23] "POST /start_scan HTTP/1.1" 200 163 0.010526
+2024-06-07 03:02:24,177 - INFO - Starting Nmap scan...
+2024-06-07 03:02:24,201 - INFO - Starting Nmap scan on target: 192.168.1.27 with scan type: -F
+2024-06-07 03:02:24,476 - INFO - Nmap scan completed in 0.27 seconds
+2024-06-07 03:02:24,477 - INFO - Nmap scan completed.
+2024-06-07 03:02:24,478 - INFO - Starting packet capture...
+2024-06-07 03:02:24,904 - INFO - Source IP: 213.141.130.48, Destination IP: 192.168.1.27
+2024-06-07 03:02:24,905 - ERROR - Error capturing packets: [Errno 2] No such file or directory: ''
+2024-06-07 03:02:24,906 - INFO - Packet capture completed.
+2024-06-07 03:02:24,906 - INFO - Retrieving ARP table...
+2024-06-07 03:02:24,935 - INFO - ARP Table:
+2024-06-07 03:02:24,936 - INFO - 
+Interface: 192.168.56.1 --- 0xb
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+Interface: 192.168.1.27 --- 0xc
+  Internet Address      Physical Address      Type
+  192.168.1.1           d4-46-49-74-91-db     dynamic   
+  192.168.1.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+2024-06-07 03:02:24,937 - INFO - ARP table retrieval completed.
+2024-06-07 03:02:24,938 - INFO - Alerting if any open ports are found...
+2024-06-07 03:02:24,956 - ERROR - Error sending email: [Errno 11001] getaddrinfo failed
+2024-06-07 03:02:24,956 - WARNING - Suspicious network activity detected and email alert sent with open port details!
+2024-06-07 03:02:24,957 - INFO - Alerts detected: []
+2024-06-07 03:02:25,972 - INFO - Rendering results with alerts: []
+2024-06-07 03:02:25,999 - INFO - 127.0.0.1 - - [2024-06-07 03:02:25] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 10993 0.027909
+2024-06-07 03:02:26,022 - INFO - 127.0.0.1 - - [2024-06-07 03:02:26] "GET /static/result.png HTTP/1.1" 304 187 0.001998
+2024-06-07 03:02:26,036 - INFO - 127.0.0.1 - - [2024-06-07 03:02:26] "GET /socket.io/?EIO=4&transport=polling&t=O_m0FPl HTTP/1.1" 200 254 0.000999
+2024-06-07 03:02:26,045 - INFO - 127.0.0.1 - - [2024-06-07 03:02:26] "POST /socket.io/?EIO=4&transport=polling&t=O_m0FPw&sid=pjmr99Dkwoopk9IBAAAC HTTP/1.1" 200 195 0.001151
+2024-06-07 03:02:26,047 - INFO - 127.0.0.1 - - [2024-06-07 03:02:26] "GET /socket.io/?EIO=4&transport=polling&t=O_m0FPx&sid=pjmr99Dkwoopk9IBAAAC HTTP/1.1" 200 239 0.000000
+2024-06-07 03:02:26,346 - INFO - 127.0.0.1 - - [2024-06-07 03:02:26] "GET /socket.io/?EIO=4&transport=polling&t=O_m0FQ1&sid=pjmr99Dkwoopk9IBAAAC HTTP/1.1" 200 157 0.295875
+2024-06-07 03:09:55,938 - INFO - 127.0.0.1 - - [2024-06-07 03:09:55] "GET / HTTP/1.1" 200 6698 0.007004
+2024-06-07 03:09:55,979 - INFO - 127.0.0.1 - - [2024-06-07 03:09:55] "GET /socket.io/?EIO=4&transport=polling&t=O_m1zG9 HTTP/1.1" 200 254 0.000000
+2024-06-07 03:09:56,079 - INFO - 127.0.0.1 - - [2024-06-07 03:09:56] "GET /static/index.png HTTP/1.1" 304 185 0.097508
+2024-06-07 03:09:56,081 - INFO - 127.0.0.1 - - [2024-06-07 03:09:56] "POST /socket.io/?EIO=4&transport=polling&t=O_m1zGV&sid=MyVEfZgGzUpkH4DOAAAA HTTP/1.1" 200 195 0.001002
+2024-06-07 03:09:56,082 - INFO - 127.0.0.1 - - [2024-06-07 03:09:56] "GET /socket.io/?EIO=4&transport=polling&t=O_m1zGX&sid=MyVEfZgGzUpkH4DOAAAA HTTP/1.1" 200 239 0.000000
+2024-06-07 03:09:56,305 - INFO - 127.0.0.1 - - [2024-06-07 03:09:56] "GET /socket.io/?EIO=4&transport=polling&t=O_m1zHr&sid=MyVEfZgGzUpkH4DOAAAA HTTP/1.1" 200 157 0.218989
+2024-06-07 03:10:09,216 - INFO - 127.0.0.1 - - [2024-06-07 03:10:09] "POST /start_scan HTTP/1.1" 200 163 0.008996
+2024-06-07 03:10:09,801 - INFO - Starting Nmap scan...
+2024-06-07 03:10:09,827 - INFO - Starting Nmap scan on target: 192.168.1.0/24 with scan type: -F
+2024-06-07 03:10:13,351 - INFO - Nmap scan completed in 3.52 seconds
+2024-06-07 03:10:13,352 - INFO - Nmap scan completed.
+2024-06-07 03:10:13,353 - INFO - Starting packet capture...
+2024-06-07 03:10:13,357 - INFO - Source IP: 176.88.124.174, Destination IP: 192.168.1.27
+2024-06-07 03:10:13,358 - ERROR - Error capturing packets: [Errno 2] No such file or directory: ''
+2024-06-07 03:10:13,359 - INFO - Packet capture completed.
+2024-06-07 03:10:13,359 - INFO - Retrieving ARP table...
+2024-06-07 03:10:13,386 - INFO - ARP Table:
+2024-06-07 03:10:13,387 - INFO - 
+Interface: 192.168.56.1 --- 0xb
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+Interface: 192.168.1.27 --- 0xc
+  Internet Address      Physical Address      Type
+  192.168.1.1           d4-46-49-74-91-db     dynamic   
+  192.168.1.29          02-39-16-88-ac-ac     dynamic   
+  192.168.1.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+2024-06-07 03:10:13,389 - INFO - ARP table retrieval completed.
+2024-06-07 03:10:13,390 - INFO - Alerting if any open ports are found...
+2024-06-07 03:10:13,403 - ERROR - Error sending email: [Errno 11001] getaddrinfo failed
+2024-06-07 03:10:13,404 - WARNING - Suspicious network activity detected and email alert sent with open port details!
+2024-06-07 03:10:13,404 - INFO - Alerts detected: []
+2024-06-07 03:10:14,424 - INFO - Rendering results with alerts: []
+2024-06-07 03:10:14,431 - INFO - 127.0.0.1 - - [2024-06-07 03:10:14] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 11912 0.006999
+2024-06-07 03:10:14,448 - INFO - 127.0.0.1 - - [2024-06-07 03:10:14] "GET /static/result.png HTTP/1.1" 304 187 0.001001
+2024-06-07 03:10:14,450 - INFO - 127.0.0.1 - - [2024-06-07 03:10:14] "GET /socket.io/?EIO=4&transport=polling&t=O_m21ml HTTP/1.1" 200 254 0.000000
+2024-06-07 03:10:14,463 - INFO - 127.0.0.1 - - [2024-06-07 03:10:14] "POST /socket.io/?EIO=4&transport=polling&t=O_m21mz&sid=ph79aapOIGHx9THvAAAC HTTP/1.1" 200 195 0.001000
+2024-06-07 03:10:14,464 - INFO - 127.0.0.1 - - [2024-06-07 03:10:14] "GET /socket.io/?EIO=4&transport=polling&t=O_m21m-&sid=ph79aapOIGHx9THvAAAC HTTP/1.1" 200 239 0.000000
+2024-06-07 03:10:14,770 - INFO - 127.0.0.1 - - [2024-06-07 03:10:14] "GET /socket.io/?EIO=4&transport=polling&t=O_m21nf&sid=ph79aapOIGHx9THvAAAC HTTP/1.1" 200 157 0.262856
+2024-06-07 03:18:27,266 - INFO - 127.0.0.1 - - [2024-06-07 03:18:27] "GET / HTTP/1.1" 200 6698 0.004969
+2024-06-07 03:18:27,305 - INFO - 127.0.0.1 - - [2024-06-07 03:18:27] "GET /socket.io/?EIO=4&transport=polling&t=O_m3w5d HTTP/1.1" 200 254 0.000000
+2024-06-07 03:18:27,418 - INFO - 127.0.0.1 - - [2024-06-07 03:18:27] "GET /static/index.png HTTP/1.1" 304 185 0.110059
+2024-06-07 03:18:27,420 - INFO - 127.0.0.1 - - [2024-06-07 03:18:27] "POST /socket.io/?EIO=4&transport=polling&t=O_m3w5-&sid=08T6SHY4-sHnED4mAAAA HTTP/1.1" 200 195 0.000997
+2024-06-07 03:18:27,422 - INFO - 127.0.0.1 - - [2024-06-07 03:18:27] "GET /socket.io/?EIO=4&transport=polling&t=O_m3w5_&sid=08T6SHY4-sHnED4mAAAA HTTP/1.1" 200 239 0.001003
+2024-06-07 03:18:27,632 - INFO - 127.0.0.1 - - [2024-06-07 03:18:27] "GET /socket.io/?EIO=4&transport=polling&t=O_m3w7Y&sid=08T6SHY4-sHnED4mAAAA HTTP/1.1" 200 157 0.204502
+2024-06-07 03:18:35,472 - INFO - 127.0.0.1 - - [2024-06-07 03:18:35] "POST /start_scan HTTP/1.1" 200 163 0.007998
+2024-06-07 03:18:36,105 - INFO - Starting Nmap scan...
+2024-06-07 03:18:36,130 - INFO - Starting Nmap scan on target: 192.168.1.0/24 with scan type: -F
+2024-06-07 03:18:39,559 - INFO - Nmap scan completed in 3.43 seconds
+2024-06-07 03:18:39,559 - INFO - Nmap scan completed.
+2024-06-07 03:18:39,560 - INFO - Starting packet capture...
+2024-06-07 03:18:39,562 - INFO - Source IP: 192.168.1.27, Destination IP: 176.88.124.174
+2024-06-07 03:18:39,563 - ERROR - Error capturing packets: [Errno 2] No such file or directory: ''
+2024-06-07 03:18:39,563 - INFO - Packet capture completed.
+2024-06-07 03:18:39,564 - INFO - Retrieving ARP table...
+2024-06-07 03:18:39,596 - INFO - ARP Table:
+2024-06-07 03:18:39,597 - INFO - 
+Interface: 192.168.56.1 --- 0xb
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+Interface: 192.168.1.27 --- 0xc
+  Internet Address      Physical Address      Type
+  192.168.1.1           d4-46-49-74-91-db     dynamic   
+  192.168.1.29          02-39-16-88-ac-ac     dynamic   
+  192.168.1.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+2024-06-07 03:18:39,599 - INFO - ARP table retrieval completed.
+2024-06-07 03:18:39,600 - INFO - Alerting if any open ports are found...
+2024-06-07 03:18:39,616 - ERROR - Error sending email: [Errno 11001] getaddrinfo failed
+2024-06-07 03:18:39,617 - WARNING - Suspicious network activity detected and email alert sent with open port details!
+2024-06-07 03:18:39,617 - INFO - Alerts detected: []
+2024-06-07 03:18:40,639 - INFO - Rendering results with alerts: []
+2024-06-07 03:18:40,647 - INFO - 127.0.0.1 - - [2024-06-07 03:18:40] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 11912 0.007525
+2024-06-07 03:18:40,668 - INFO - 127.0.0.1 - - [2024-06-07 03:18:40] "GET /static/result.png HTTP/1.1" 304 187 0.001001
+2024-06-07 03:18:40,682 - INFO - 127.0.0.1 - - [2024-06-07 03:18:40] "GET /socket.io/?EIO=4&transport=polling&t=O_m3zMb HTTP/1.1" 200 254 0.001001
+2024-06-07 03:18:40,687 - INFO - 127.0.0.1 - - [2024-06-07 03:18:40] "POST /socket.io/?EIO=4&transport=polling&t=O_m3zMj&sid=dtlN9zE_IERW7X32AAAC HTTP/1.1" 200 195 0.001001
+2024-06-07 03:18:40,688 - INFO - 127.0.0.1 - - [2024-06-07 03:18:40] "GET /socket.io/?EIO=4&transport=polling&t=O_m3zMj.0&sid=dtlN9zE_IERW7X32AAAC HTTP/1.1" 200 239 0.000000
+2024-06-07 03:18:40,999 - INFO - 127.0.0.1 - - [2024-06-07 03:18:40] "GET /socket.io/?EIO=4&transport=polling&t=O_m3zMo&sid=dtlN9zE_IERW7X32AAAC HTTP/1.1" 200 157 0.308322
+2024-06-07 18:43:47,784 - INFO - 127.0.0.1 - - [2024-06-07 18:43:47] "GET / HTTP/1.1" 200 6698 0.022339
+2024-06-07 18:43:47,816 - INFO - 127.0.0.1 - - [2024-06-07 18:43:47] "GET /socket.io/?EIO=4&transport=polling&t=O_pNivd HTTP/1.1" 200 254 0.000000
+2024-06-07 18:43:47,909 - INFO - 127.0.0.1 - - [2024-06-07 18:43:47] "GET /static/index.png HTTP/1.1" 304 185 0.091211
+2024-06-07 18:43:47,910 - INFO - 127.0.0.1 - - [2024-06-07 18:43:47] "POST /socket.io/?EIO=4&transport=polling&t=O_pNivu&sid=gogkKXhhxkWCgZX3AAAA HTTP/1.1" 200 195 0.000000
+2024-06-07 18:43:47,911 - INFO - 127.0.0.1 - - [2024-06-07 18:43:47] "GET /socket.io/?EIO=4&transport=polling&t=O_pNivv&sid=gogkKXhhxkWCgZX3AAAA HTTP/1.1" 200 239 0.000000
+2024-06-07 18:43:48,028 - INFO - 127.0.0.1 - - [2024-06-07 18:43:48] "GET /favicon.ico HTTP/1.1" 404 331 0.000000
+2024-06-07 18:43:48,139 - INFO - 127.0.0.1 - - [2024-06-07 18:43:48] "GET /socket.io/?EIO=4&transport=polling&t=O_pNix9&sid=gogkKXhhxkWCgZX3AAAA HTTP/1.1" 200 157 0.225459
+2024-06-07 18:43:49,306 - INFO - 127.0.0.1 - - [2024-06-07 18:43:49] "GET /socket.io/?EIO=4&transport=polling&t=O_pNjGt HTTP/1.1" 200 254 0.001005
+2024-06-07 18:43:49,310 - INFO - 127.0.0.1 - - [2024-06-07 18:43:49] "POST /socket.io/?EIO=4&transport=polling&t=O_pNjGy&sid=d2qyn4PIRdvyNjwyAAAC HTTP/1.1" 200 195 0.001010
+2024-06-07 18:43:49,311 - INFO - 127.0.0.1 - - [2024-06-07 18:43:49] "GET /socket.io/?EIO=4&transport=polling&t=O_pNjGz&sid=d2qyn4PIRdvyNjwyAAAC HTTP/1.1" 200 239 0.000000
+2024-06-07 18:43:49,623 - INFO - 127.0.0.1 - - [2024-06-07 18:43:49] "GET /socket.io/?EIO=4&transport=polling&t=O_pNjH1&sid=d2qyn4PIRdvyNjwyAAAC HTTP/1.1" 200 157 0.308914
+2024-06-07 18:49:18,581 - INFO - 127.0.0.1 - - [2024-06-07 18:49:18] "POST /start_scan HTTP/1.1" 200 163 0.028257
+2024-06-07 18:49:19,270 - INFO - Starting Nmap scan...
+2024-06-07 18:49:19,491 - INFO - Starting Nmap scan on target: 192.168.1.0/24 with scan type: -F
+2024-06-07 18:49:37,394 - INFO - Nmap scan completed in 17.90 seconds
+2024-06-07 18:49:37,395 - INFO - Nmap scan completed.
+2024-06-07 18:49:37,395 - INFO - Starting packet capture...
+2024-06-07 18:49:37,453 - INFO - Source IP: 108.177.96.188, Destination IP: 192.168.1.121
+2024-06-07 18:49:37,453 - INFO - Source Port: 5228, Destination Port: 64553
+2024-06-07 18:49:37,455 - ERROR - Error capturing packets: [Errno 2] No such file or directory: ''
+2024-06-07 18:49:37,456 - INFO - Packet capture completed.
+2024-06-07 18:49:37,456 - INFO - Retrieving ARP table...
+2024-06-07 18:49:37,485 - INFO - ARP Table:
+2024-06-07 18:49:37,485 - INFO - 
+Interface: 192.168.56.1 --- 0xb
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+Interface: 192.168.1.121 --- 0xc
+  Internet Address      Physical Address      Type
+  192.168.1.1           14-eb-b6-08-fa-86     dynamic   
+  192.168.1.100         34-60-f9-3e-1d-cf     dynamic   
+  192.168.1.110         5a-7f-c2-cb-f7-03     dynamic   
+  192.168.1.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.102.18        01-00-5e-7f-66-12     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+2024-06-07 18:49:37,488 - INFO - ARP table retrieval completed.
+2024-06-07 18:49:37,488 - INFO - Alerting if any open ports are found...
+2024-06-07 18:49:37,679 - ERROR - Error sending email: [Errno 11001] getaddrinfo failed
+2024-06-07 18:49:37,680 - WARNING - Suspicious network activity detected and email alert sent with open port details!
+2024-06-07 18:49:37,681 - INFO - Alerts detected: []
+2024-06-07 18:49:37,685 - INFO - Rendering results with alerts: []
+2024-06-07 18:49:37,708 - INFO - 127.0.0.1 - - [2024-06-07 18:49:37] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 11815 0.023031
+2024-06-07 18:49:37,735 - INFO - 127.0.0.1 - - [2024-06-07 18:49:37] "GET /static/result.png HTTP/1.1" 304 187 0.010885
+2024-06-07 18:49:37,737 - INFO - 127.0.0.1 - - [2024-06-07 18:49:37] "GET /socket.io/?EIO=4&transport=polling&t=O_pP2Ky HTTP/1.1" 200 254 0.000999
+2024-06-07 18:49:37,740 - INFO - 127.0.0.1 - - [2024-06-07 18:49:37] "POST /socket.io/?EIO=4&transport=polling&t=O_pP2LA&sid=I6i4IM1NL8kqQpuZAAAE HTTP/1.1" 200 195 0.000999
+2024-06-07 18:49:37,741 - INFO - 127.0.0.1 - - [2024-06-07 18:49:37] "GET /socket.io/?EIO=4&transport=polling&t=O_pP2LA.0&sid=I6i4IM1NL8kqQpuZAAAE HTTP/1.1" 200 239 0.000000
+2024-06-07 18:49:38,047 - INFO - 127.0.0.1 - - [2024-06-07 18:49:38] "GET /socket.io/?EIO=4&transport=polling&t=O_pP2LE&sid=I6i4IM1NL8kqQpuZAAAE HTTP/1.1" 200 157 0.303091
+2024-06-07 18:49:38,694 - INFO - Rendering results with alerts: []
+2024-06-07 18:49:38,695 - INFO - 127.0.0.1 - - [2024-06-07 18:49:38] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 11815 0.000999
+2024-06-07 18:49:38,721 - INFO - 127.0.0.1 - - [2024-06-07 18:49:38] "GET /static/result.png HTTP/1.1" 304 187 0.000997
+2024-06-07 18:49:38,733 - INFO - 127.0.0.1 - - [2024-06-07 18:49:38] "GET /socket.io/?EIO=4&transport=polling&t=O_pP2ah HTTP/1.1" 200 254 0.000000
+2024-06-07 18:49:38,737 - INFO - 127.0.0.1 - - [2024-06-07 18:49:38] "POST /socket.io/?EIO=4&transport=polling&t=O_pP2al&sid=cseXEZsD5gWS8zWlAAAG HTTP/1.1" 200 195 0.000000
+2024-06-07 18:49:38,738 - INFO - 127.0.0.1 - - [2024-06-07 18:49:38] "GET /socket.io/?EIO=4&transport=polling&t=O_pP2am&sid=cseXEZsD5gWS8zWlAAAG HTTP/1.1" 200 239 0.000000
+2024-06-07 18:49:39,049 - INFO - 127.0.0.1 - - [2024-06-07 18:49:39] "GET /socket.io/?EIO=4&transport=polling&t=O_pP2ap&sid=cseXEZsD5gWS8zWlAAAG HTTP/1.1" 200 157 0.309451
+2024-06-07 18:52:37,553 - INFO - 127.0.0.1 - - [2024-06-07 18:52:37] "GET / HTTP/1.1" 200 6698 0.000999
+2024-06-07 18:52:37,589 - INFO - 127.0.0.1 - - [2024-06-07 18:52:37] "GET /static/index.png HTTP/1.1" 304 185 0.001001
+2024-06-07 18:52:37,592 - INFO - 127.0.0.1 - - [2024-06-07 18:52:37] "GET /socket.io/?EIO=4&transport=polling&t=O_pPkFM HTTP/1.1" 200 254 0.000000
+2024-06-07 18:52:37,596 - INFO - 127.0.0.1 - - [2024-06-07 18:52:37] "POST /socket.io/?EIO=4&transport=polling&t=O_pPkFQ&sid=Yf0I-chtA6Iag9ndAAAI HTTP/1.1" 200 195 0.000998
+2024-06-07 18:52:37,598 - INFO - 127.0.0.1 - - [2024-06-07 18:52:37] "GET /socket.io/?EIO=4&transport=polling&t=O_pPkFR&sid=Yf0I-chtA6Iag9ndAAAI HTTP/1.1" 200 239 0.001000
+2024-06-07 18:52:37,912 - INFO - 127.0.0.1 - - [2024-06-07 18:52:37] "GET /socket.io/?EIO=4&transport=polling&t=O_pPkFW&sid=Yf0I-chtA6Iag9ndAAAI HTTP/1.1" 200 157 0.311424
+2024-06-07 18:52:56,588 - INFO - 127.0.0.1 - - [2024-06-07 18:52:56] "POST /start_scan HTTP/1.1" 200 167 0.005997
+2024-06-07 18:52:57,113 - INFO - Starting Nmap scan...
+2024-06-07 18:52:57,133 - INFO - Starting Nmap scan on target: 192.168.1.0/24 with scan type: -sS -sV -O --script=default -T4
+2024-06-07 19:03:20,869 - INFO - Nmap scan completed in 623.74 seconds
+2024-06-07 19:03:20,870 - INFO - Nmap scan completed.
+2024-06-07 19:03:20,870 - INFO - Starting packet capture...
+2024-06-07 19:03:21,126 - INFO - Source IP: 192.168.1.121, Destination IP: 172.217.17.99
+2024-06-07 19:03:21,127 - INFO - Source Port: 1173, Destination Port: 443
+2024-06-07 19:03:21,128 - ERROR - Error capturing packets: [Errno 2] No such file or directory: ''
+2024-06-07 19:03:21,129 - INFO - Packet capture completed.
+2024-06-07 19:03:21,129 - INFO - Retrieving ARP table...
+2024-06-07 19:03:21,154 - INFO - ARP Table:
+2024-06-07 19:03:21,155 - INFO - 
+Interface: 192.168.56.1 --- 0xb
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+Interface: 192.168.1.121 --- 0xc
+  Internet Address      Physical Address      Type
+  192.168.1.1           14-eb-b6-08-fa-86     dynamic   
+  192.168.1.100         34-60-f9-3e-1d-cf     dynamic   
+  192.168.1.101         a2-c8-bc-7a-ce-0e     dynamic   
+  192.168.1.110         5a-7f-c2-cb-f7-03     dynamic   
+  192.168.1.111         66-b2-b5-b0-25-bc     dynamic   
+  192.168.1.112         e4-0d-36-f6-5d-83     dynamic   
+  192.168.1.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.102.18        01-00-5e-7f-66-12     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+2024-06-07 19:03:21,158 - INFO - ARP table retrieval completed.
+2024-06-07 19:03:21,158 - INFO - Alerting if any open ports are found...
+2024-06-07 19:03:21,322 - ERROR - Error sending email: [Errno 11001] getaddrinfo failed
+2024-06-07 19:03:21,323 - WARNING - Suspicious network activity detected and email alert sent with open port details!
+2024-06-07 19:03:21,323 - INFO - Alerts detected: []
+2024-06-07 19:03:21,644 - INFO - Rendering results with alerts: []
+2024-06-07 19:03:21,646 - INFO - 127.0.0.1 - - [2024-06-07 19:03:21] "GET /results?scan_type=Top%20Ports%20Scan HTTP/1.1" 200 12311 0.002000
+2024-06-07 19:03:21,660 - INFO - 127.0.0.1 - - [2024-06-07 19:03:21] "GET /static/result.png HTTP/1.1" 304 187 0.001987
+2024-06-07 19:03:21,661 - INFO - 127.0.0.1 - - [2024-06-07 19:03:21] "GET /socket.io/?EIO=4&transport=polling&t=O_pSBUw HTTP/1.1" 200 254 0.000000
+2024-06-07 19:03:21,666 - INFO - 127.0.0.1 - - [2024-06-07 19:03:21] "POST /socket.io/?EIO=4&transport=polling&t=O_pSBU_&sid=eN3A4nV2-LY4tfhoAAAK HTTP/1.1" 200 195 0.001032
+2024-06-07 19:03:21,667 - INFO - 127.0.0.1 - - [2024-06-07 19:03:21] "GET /socket.io/?EIO=4&transport=polling&t=O_pSBV0&sid=eN3A4nV2-LY4tfhoAAAK HTTP/1.1" 200 239 0.000000
+2024-06-07 19:03:21,973 - INFO - 127.0.0.1 - - [2024-06-07 19:03:21] "GET /socket.io/?EIO=4&transport=polling&t=O_pSBV4&sid=eN3A4nV2-LY4tfhoAAAK HTTP/1.1" 200 157 0.304422
+2024-06-07 19:03:23,312 - INFO - Rendering results with alerts: []
+2024-06-07 19:03:23,313 - INFO - 127.0.0.1 - - [2024-06-07 19:03:23] "GET /results?scan_type=Comprehensive%20Scan HTTP/1.1" 200 12311 0.001000
+2024-06-07 19:03:23,330 - INFO - 127.0.0.1 - - [2024-06-07 19:03:23] "GET /static/result.png HTTP/1.1" 304 187 0.000999
+2024-06-07 19:03:23,332 - INFO - 127.0.0.1 - - [2024-06-07 19:03:23] "GET /socket.io/?EIO=4&transport=polling&t=O_pSBv3 HTTP/1.1" 200 254 0.000000
+2024-06-07 19:03:23,337 - INFO - 127.0.0.1 - - [2024-06-07 19:03:23] "POST /socket.io/?EIO=4&transport=polling&t=O_pSBv7&sid=y2EoaWaAjnlvGBk5AAAM HTTP/1.1" 200 195 0.000998
+2024-06-07 19:03:23,338 - INFO - 127.0.0.1 - - [2024-06-07 19:03:23] "GET /socket.io/?EIO=4&transport=polling&t=O_pSBv7.0&sid=y2EoaWaAjnlvGBk5AAAM HTTP/1.1" 200 239 0.000000
+2024-06-07 19:03:23,655 - INFO - 127.0.0.1 - - [2024-06-07 19:03:23] "GET /socket.io/?EIO=4&transport=polling&t=O_pSBvB&sid=y2EoaWaAjnlvGBk5AAAM HTTP/1.1" 200 157 0.314740
